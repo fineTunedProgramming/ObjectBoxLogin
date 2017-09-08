@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ObjectBoxLogin</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="mob_hint">+918569472315</string>
+    <string name="password_hint">Password</string>
+    <string name="usernameimage">usernameImage</string>
+    <string name="username">Username</string>
+</resources>
